@@ -73,8 +73,8 @@ function AlbumPage() {
             <p className="text-2xl text-slate-600 font-medium px-6 text-center py-6">
               Tracks
             </p>
-            <div className="pb-20">
-              <table className="px-2 text-center md:w-[700px]">
+            <div className="pb-20 w-full">
+              <table className="px-2 text-center md:w-[700px] max-md:w-full">
                 <tbody>
                 <tr>
                   <th className="w-1/6">#</th>
